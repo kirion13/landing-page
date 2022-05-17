@@ -217,12 +217,14 @@ section.your-active-class .landing__container::before {
   opacity: 1;
   animation: rotate 4s linear 0s infinite forwards;
 }
-
 section.your-active-class .landing__container::after {
   opacity: 1;
   animation: rotate 5s linear 0s infinite forwards reverse;
 }
-
+.active {
+  background: #333;
+  color: white;
+}
 /* Section Active Styles Keyframe Animations */
 @keyframes rotate {
   from {
