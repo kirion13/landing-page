@@ -1,6 +1,6 @@
 const list = document.getElementById("navbar__list");
 const sections = document.querySelectorAll("section");
-console.log(sections);
+
 const markup = [...sections]
   .map(
     (item) =>
@@ -15,4 +15,5 @@ list.addEventListener("click", (e) => {
     .scrollIntoView({ behavior: "smooth" });
 });
 list.style.cssText =
-  "min-height:50px; width:100%; background:#273c75; display:flex; justify-content:center; align-items:center; border-bottom:5px solid #04aa6d; text-align:center;";
+  " min-height:50px; width:100%; background:#273c75; display:flex; justify-content:center; align-items:center; border-bottom:5px solid #04aa6d; text-align:center;";
+///
