@@ -225,6 +225,16 @@ section.your-active-class .landing__container::after {
   background: #333;
   color: white;
 }
+.style {
+  min-height: 50px;
+  width: 100%;
+  background: #273c75;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 5px solid #04aa6d;
+  text-align: center;
+}
 /* Section Active Styles Keyframe Animations */
 @keyframes rotate {
   from {

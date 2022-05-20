@@ -1,13 +1,22 @@
-# Landing Page Project
+# Project 1
 
-## Table of Contents
+landing page
 
-* [Instructions](#instructions)
+## Description
 
-## Instructions
+Project 1 of Front End Web Development Professional - Udacity
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Languages
 
-To get started, open `js/app.js` and start building out the app's functionality
+- html.
+- css
+- JavaScript
+-
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## By
+
+Mazen Ahmed
+
+## License
+
+This project is owned by Udacity
